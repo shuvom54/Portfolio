@@ -128,7 +128,7 @@ a {
 
 .shape-2 {
     background: var(--secondary-color);
-    width: 400px;
+    /*width: 400px;*/
     height: 400px;
     top: 7%;
     right: -150px;
